@@ -1,0 +1,89 @@
+1487098336TS---><!DOCTYPE html>
+<html>
+<head>
+
+	<!--
+	<meta http-equiv="Cache-Control" content="no-cache" />
+	<meta http-equiv="Cache-Control" content="private, max-age=300, must-revalidate, proxy-revalidate" />
+	-->
+
+    <meta charset="utf-8">
+    <title>Сайт визитка. Карта сайта</title>
+	<meta content="initial-scale=1.0, width=device-width" name="viewport">
+    <meta name="description" content="Сайт визитка. Карта сайта">
+	<meta name="keywords" content="Сайт визитка. Карта сайта">
+    <meta name="author" content="IT.iKiev.biz">
+
+	<link href="/files/bootstrap-3.3.6-dist/css/bootstrap.min.css" rel="stylesheet">
+
+	<link href="/files/outside/css/core.css" rel="stylesheet">
+	<link href="/files/outside/css/style.css" rel="stylesheet">
+
+	<link rel="icon" href="favicon.ico">
+  
+  
+</head>
+
+<body>
+
+	<script>
+	// Place for Google Analytics Code
+	</script>
+
+	<div class="header">
+		<div class="container">
+			<a href="/" class="logo_holder">
+				Startup
+			</a>
+			<a href="#" class="header_right menu_btn">
+				<i class="glyphicon glyphicon-th"></i> <span class="menu_text">Menu</span>
+			</a>
+							<a href="/auth/profile" class="header_right register_btn">
+					<i class="glyphicon glyphicon-user"></i> <span class="menu_text">Личный кабинет</span>
+				</a>
+					</div>
+	</div>
+
+	<div class="content">
+	<div class="content-wrapper wrapper">
+      
+    <div class="container">
+
+	  <div class="sitemap_holder p20">
+	    <h3>Карта сайта</h3>
+
+		<br />
+		<h4>Контент:</h4>
+		<br />
+
+				- <a href="/content/al/contacts">Контакты</a><br />
+				- <a href="/content/al/about">О нас</a><br />
+		
+          <form method="POST" action="https://www.liqpay.com/api/3/checkout"
+                accept-charset="utf-8">
+              <input type="hidden" name="data" value="eyAidmVyc2lvbiIgOiAzLCAicHVibGljX2tleSIgOiAieW91cl9wdWJsaWNfa2V5IiwgImFjdGlv
+biIgOiAicGF5IiwgImFtb3VudCIgOiAxLCAiY3VycmVuY3kiIDogIlVTRCIsICJkZXNjcmlwdGlv
+biIgOiAiZGVzY3JpcHRpb24gdGV4dCIsICJvcmRlcl9pZCIgOiAib3JkZXJfaWRfMSIgfQ=="/>
+              <input type="hidden" name="signature" value="QvJD5u9Fg55PCx/Hdz6lzWtYwcI="/>
+              <input type="image"
+                     src="//static.liqpay.com/buttons/p1ru.radius.png"/>
+          </form>
+
+      </div>
+	</div>
+</div>	</div>
+
+
+	<div class="footer">
+		Startup.ikiev.biz. All rights reserved.
+	</div>
+
+    
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="/files/inside/js/jquery.form.js"></script>
+	<script src="/files/bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
+
+	
+	
+</body>
+</html>

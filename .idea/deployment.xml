@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" promptOnRemoteOverwrite="CHECK_CONTENT" serverName="Hostinger" autoUploadExternalChanges="true" notifyRemoteChanges="true">
+    <serverData>
+      <paths name="Hostimger Test">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Hostinger">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/yii" />
+            <excludedPath path="/system" />
+            <excludedPath path="/sql" />
+            <excludedPath path="/ci3" />
+            <excludedPath path="/ciyura" />
+            <excludedPath path="/files" />
+            <excludedPath path="/public_html" />
+            <excludedPath path="/html2pdf-4.5.1" />
+            <excludedPath local="true" path="$PROJECT_DIR$/yii" />
+            <excludedPath local="true" path="$PROJECT_DIR$/system" />
+            <excludedPath local="true" path="$PROJECT_DIR$/sql" />
+            <excludedPath local="true" path="$PROJECT_DIR$/ci3" />
+            <excludedPath local="true" path="$PROJECT_DIR$/ciyura" />
+            <excludedPath local="true" path="$PROJECT_DIR$/files" />
+            <excludedPath local="true" path="$PROJECT_DIR$/public_html" />
+            <excludedPath local="true" path="$PROJECT_DIR$/html2pdf-4.5.1" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
+
